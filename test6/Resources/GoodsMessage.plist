@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<string>shop/hits.png</string>
+		<string>shop/hits.png</string>
+		<string>shop/hits.png</string>
+		<string>shop/hits.png</string>
+		<string>shop/hits.png</string>
+		<string>shop/hits.png</string>
+	</array>
+	<array>
+		<string>shop/bridge/bridge0.png</string>
+		<string>shop/bridge/bridge1.png</string>
+		<string>shop/bridge/bridge2.png</string>
+		<string>shop/bridge/bridge3.png</string>
+		<string>shop/bridge/bridge4.png</string>
+		<string>shop/bridge/bridge5.png</string>
+	</array>
+	<array>
+		<string>shop/perk.png</string>
+		<string>shop/perk.png</string>
+		<string>shop/perk.png</string>
+		<string>shop/perk.png</string>
+		<string>shop/perk.png</string>
+		<string>shop/perk.png</string>
+	</array>
+	<array>
+		<string>shop/aboutus.png</string>
+		<string>shop/aboutus.png</string>
+		<string>shop/aboutus.png</string>
+		<string>shop/aboutus.png</string>
+		<string>shop/aboutus.png</string>
+		<string>shop/aboutus.png</string>
+	</array>
+</array>
+</plist>
